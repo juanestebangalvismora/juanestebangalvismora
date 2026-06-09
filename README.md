@@ -129,9 +129,11 @@ I work across the full stack in **PHP/Laravel**, **C#/ASP.NET**, **React + TypeS
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanestebangalvismora&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanestebangalvismora&layout=compact&theme=github_dark&hide_border=true&count_private=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=juanestebangalvismora&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanestebangalvismora&layout=compact&theme=github_dark&hide_border=true&langs_count=8&count_private=true" height="150"/>
 </p>
 
 ---
