@@ -142,7 +142,7 @@ I work across the full stack in **PHP/Laravel**, **C#/ASP.NET**, **React + TypeS
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanestebangalvismora&layout=compact&theme=github_dark&hide_border=true&langs_count=8&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanestebangalvismora&layout=compact&theme=dark&hide_border=true&langs_count=8&count_private=true&cache_seconds=1800" height="150"/>
 </p>
 
 ---
