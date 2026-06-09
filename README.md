@@ -99,20 +99,29 @@ I work across the full stack in **PHP/Laravel**, **C#/ASP.NET**, **React + TypeS
 
 ---
 
-### 🔬 DICOM Viewer & Processor *(in development)*
-> Medical imaging tool for viewing and processing DICOM files — the standard format for radiology images.
+### 🔬 PACS DICOM Viewer — Hospital Imaging Platform
+> Full-stack medical imaging platform with PACS integration for hospital radiology workflows.
 
-- Parses and renders DICOM files, windowing, metadata extraction, multi-frame support
-- Built with Python and medical imaging libraries
+- **Orthanc PACS** server on Oracle Cloud VPS (Docker) as the DICOM storage and routing backend
+- REST API in **Python / Flask** with JWT auth, PyDICOM, S3 storage (boto3) and PDF report generation (ReportLab)
+- SPA frontend in **React 18 + TypeScript + TailwindCSS** with OHIF Viewer integration for in-browser DICOM rendering
+- Multi-tenant aware, MySQL database with Flask-SQLAlchemy
+- Deployed on cPanel Python App + Oracle Cloud free tier VPS
 
-`Python` `DICOM` `Medical Imaging`
+`Python` `Flask` `PyDICOM` `Orthanc` `React` `TypeScript` `TailwindCSS` `MySQL` `S3` `Docker` `DICOM`
 
 ---
 
-### 🐾 VetApp *(in development)*
-> Veterinary clinic management app — patient records, appointments, and medical histories for animal patients.
+### 🐾 VetApp — Veterinary Clinic Management (Multi-Tenant SaaS)
+> Full-stack multi-tenant veterinary management platform for clinics, built with a modern decoupled architecture.
 
-`Python` `Full Stack`
+- **Multi-tenant** architecture: each clinic is an isolated tenant with their own data scope (`X-Tenant` header + Sanctum middleware)
+- Complete patient workflow: owners → pets → appointments → consultations → vaccinations → deworming
+- Inventory and invoicing: products, stock movements, invoice line items
+- Dashboard with clinic-level KPIs
+- Backend: **Laravel + Sanctum** REST API · Frontend: **React 19 + TailwindCSS v4 + Zustand + TanStack Query**
+
+`PHP` `Laravel` `React` `TypeScript` `TailwindCSS` `MySQL` `Multi-tenant` `REST API`
 
 ---
 
