@@ -1,5 +1,5 @@
 <h1 align="center">Juan Esteban Galvis M.</h1>
-<h3 align="center">Full Stack Developer · Health Tech · Fundador ZeroUno · Pereira, Colombia 🇨🇴</h3>
+<h3 align="center">Full Stack Developer · Health Tech · Pereira, Colombia 🇨🇴</h3>
 
 <p align="center">
   <a href="mailto:juanestebangalvismora@gmail.com">
@@ -16,7 +16,7 @@
 
 Full Stack Developer con 5 años de experiencia construyendo y sosteniendo **sistemas críticos para el sector salud en Colombia** — historia clínica electrónica, imagenología DICOM/PACS, facturación electrónica ante la DIAN, triage hospitalario y agentes de IA conectados a la operación real.
 
-Fundador de **ZeroUno** (2018), casa de software colombiana. No solo escribo el código: levanto el proceso con el cliente, construyo en fases, despliego, administro la infraestructura y respondo cuando algo falla en producción.
+Desarrollador principal en **ZeroUno** (casa de software colombiana, 2018). No solo escribo el código: levanto el proceso con el cliente, construyo en fases, despliego, administro la infraestructura y respondo cuando algo falla en producción.
 
 ---
 
